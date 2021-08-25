@@ -6,7 +6,7 @@
             "type": "string",
             "defaultValue": "demouser",
             "metadata": {
-                "description": "The name of the administrator account of the new VM and domain"
+                "description": "The name of the administrator account of the new VM and domain server"
             }
         },
         "adminPassword": { 
