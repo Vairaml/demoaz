@@ -12,7 +12,7 @@
         },
         "adminPassword": {
             "type": "securestring",
-            "defaultValue": "Demo!pass123",
+            "defaultValue": "Demo!pass123567890",
             "metadata": {
                 "description": "Password for the Virtual Machine."
             }
