@@ -20,10 +20,10 @@
             "type": "string",
             "defaultValue": "contoso.com",
             "metadata": {
-                "description": "The FQDN of the Active Directory Domain to be created"
+                "description": "The FQDN of the Active Directory Domain to be created" 
             }
         }
-    }, 
+    },  
     "variables": {
         "vnetName": "VNet1",
         "baseUri": "https://cloudworkshop.blob.core.windows.net/building-resilient-iaas-architecture/lab-resources/june-2020-update/"
